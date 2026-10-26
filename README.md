@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ardelyx is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://ardelyx.com
+Ardelyx is a biopharmaceutical company focused on developing innovative therapies for patients with chronic kidney disease and related conditions. The company’s mission is to improve patient outcomes through science-driven drug development, addressing unmet needs in hyperphosphatemia, irritable bowel syndrome with constipation, and other renal-related disorders. Ardelyx leverages a robust pipeline of clinical trials and a commitment to patient-centric research, aiming to deliver safe and effective treatments that enhance quality of life.
+
+**Areas:** Biopharma · Healthcare · ClinicalTrials · KidneyDisease · Innovation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ardelyx.com)
+- [Terms of service](https://ardelyx.com/terms-and-conditions/)
+- [Privacy policy](https://ardelyx.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ardelyx/](https://apis.io/providers/ardelyx/).
